@@ -1,3 +1,3 @@
-<script>
+
 document.getElementById("demo").innerHTML = 5 + 6;
-</script>
+console.log(hello world);
